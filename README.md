@@ -5,6 +5,7 @@ as it is very common.
 
 I am analyzing the US.Gov earthquake data giving the following options: past hour of earthquakes, past day of earthquakes, and past 30 days(month) of earthquakes. 
 Here is the link to the data sets.
+
 month: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson
 hour : https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson
 day  : https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson
