@@ -25,8 +25,8 @@ How many Earhquakes have happened in the past 24 hours? It was interesting as I 
 
 Which Places have the most Earthquakes?  Almost in all the situations it was California. As it was greatly higher.
 
-How common are magnitude 5 earthquakes? They are more common then we think as in a 24 hour amount of time there was 22. While over 
-a month its 200+.
+How common are magnitude 5 earthquakes? They are more common then we think as in a 24 hour amount of time there was 5. While over 
+a month its 100+.
 
 # Development Environment
 
