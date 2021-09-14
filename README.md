@@ -36,13 +36,11 @@ I used python and the requests library to do this program.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Earthquake.us.gov](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
 * [Python Dictionary Functions](https://www.w3schools.com/python/python_ref_dictionary.asp)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Incorporate boundaries for different time windows a user can enter.
 * Find typos and merge them in the dictionary for example "CA" and "California" to make them one value.
 * Let the user enter a state or country they would like to see data for.
